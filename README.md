@@ -1,5 +1,7 @@
 Go to instance folder
 
+This will clone into a subfolder mods
+
 ```py
 git clone https://github.com/Ethanscharlie/skibsminecraftmods.git mods
 ```
